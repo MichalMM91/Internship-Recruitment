@@ -72,7 +72,7 @@ getNewestPosts = (postList) => {
         };
     });
     console.log("Wyświetlono posty z ostatnich 24h");
-    console.log({"posts": freshPosts});
+    console.log({"posts": newestPosts});
 
 }
 
